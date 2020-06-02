@@ -46,3 +46,4 @@ class Solution {
         
     }
 }
+/* Time complexity and space complexity is O(1) since no space and much tme required */
