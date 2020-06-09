@@ -26,4 +26,4 @@ class Solution {
 }
 */ Here we used binary operation for power of two if we observe there are some logic for suppose x and ~x-1 is equal to x 
 and x and x-1 is equal to 0 so we used this logic here*/
-*/ Time complexity and Space complexity is O(N)*/
+*/ Time complexity and Space complexity is O(1)*/
